@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    margin: 5px;
+    text-decoration: none;
+    color: blue;
+}
+
+button {
+    padding: 5px 10px;
+}
